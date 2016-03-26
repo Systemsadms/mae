@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*
+ Ajatix Advanced CSS Drop Down Menu
+ Copyright (C) 2009-2013 Ajatix. All rights reserved.
+ http://www.ajatix.com
+ Unregistered copy.
+ Any usage except for the purpose of evaluation is strictly prohibited.
+*/
+.AJXCSSMenuKCQIHHD {position:relative;z-index:100;width:100%;min-width:590px;}
+.AJXCSSMenuKCQIHHD ul {position:relative;display:inline-block;margin:0;padding:0;list-style-type:none;}
+*+html .AJXCSSMenuKCQIHHD ul {display:inline;}
+.AJXCSSMenuKCQIHHD li {float:left;margin:0;}
+.AJXCSSMenuKCQIHHD li a {display:block;float:left;height:30px;white-space:nowrap;overflow:hidden;padding:0 0 0 17px;font:bold 14px Arial,Helvetica,sans-serif;line-height:30px;text-decoration:none;text-align:center;color:#ffffff;background:#3a4145 url(ajxmenu_files/top.jpg) no-repeat top left;}
+.AJXCSSMenuKCQIHHD a span {display:block;padding:0 17px 0 0;background:url(ajxmenu_files/top.jpg) no-repeat top right;}
+.AJXCSSMenuKCQIHHD li:hover > a,.AJXCSSMenuKCQIHHD li.ajxover > a {color:#3e4549;background:#f3f3f4 url(ajxmenu_files/top.jpg) no-repeat bottom left;}
+.AJXCSSMenuKCQIHHD li:hover > a span,.AJXCSSMenuKCQIHHD li.ajxover > a span {background:url(ajxmenu_files/top.jpg) no-repeat bottom right;}
+.AJXCSSMenuKCQIHHD img {position:fixed;left:0;top:0;width:0;height:0;z-index:-1;display:none;}
+.AJXCSSMenuKCQIHHD li.tsub:hover ~ li img {width:100%;height:100%;display:block;}
+.AJXCSSMenuKCQIHHD br {clear:both;height:0;font-size: 1px;line-height: 0px;}

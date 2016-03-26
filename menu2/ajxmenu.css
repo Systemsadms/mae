@@ -1,0 +1,18 @@
+/*
+ Ajatix Pure CSS Menu
+ Copyright (C) 2010 Ajatix. All rights reserved.
+ http://www.ajatix.com
+ Unregistered copy.
+ Any usage except for the purpose of evaluation is strictly prohibited.
+*/
+.AJXMenuUbXLKLC {position:relative;z-index:100;width:100%;min-width:590px;height:30px;background:#ffffff;}
+* html .AJXMenuUbXLKLC .ajxmw1 {float:left;height: 1px;border-left:590px solid #fff;}
+* html .AJXMenuUbXLKLC .ajxmw2 {position:relative;margin-left:-590px;height:1px;background:#ffffff;}
+.AJXMenuUbXLKLC ul {position:relative;float:left;margin:0;padding:0;list-style-type:none;}
+.AJXMenuUbXLKLC li {float:left;margin:0;padding:0px 3px 0px 0;}
+.AJXMenuUbXLKLC li.tlast {padding-right:0px;}
+.AJXMenuUbXLKLC a {display:block;float:left;height:30px;white-space:nowrap;padding:0 0 0 20px;font:11px/30px Verdana,Arial,Helvetica,sans-serif;text-decoration:none;text-align:center;color:#ffffff;background:#217ba7 url(ajxmenu_files/top.jpg) no-repeat top left;}
+.AJXMenuUbXLKLC a b {display:block;padding:0 20px 0 0;background:url(ajxmenu_files/top.jpg) no-repeat top right;}
+.AJXMenuUbXLKLC li:hover a,.AJXMenuUbXLKLC a:hover {color:#000000;background:#2b9ed8 url(ajxmenu_files/top.jpg) no-repeat bottom left;}
+.AJXMenuUbXLKLC li:hover a b,.AJXMenuUbXLKLC a:hover b {background:url(ajxmenu_files/top.jpg) no-repeat bottom right;}
+.AJXMenuUbXLKLC br {clear:both;height:0;font-size: 1px;line-height: 0px;}

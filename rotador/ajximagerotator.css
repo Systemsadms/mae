@@ -1,0 +1,17 @@
+@charset "utf-8";
+/*
+ Ajatix Image/Banner Rotator
+ Copyright (C) 2011-2013 Ajatix. All rights reserved.
+ http://www.ajatix.com
+ Unregistered copy.
+ Any usage except for the purpose of evaluation is strictly prohibited.
+*/
+.AJXIRJFVOKZC {overflow:hidden;position:relative;height:300px;width:900px;background-color:#ffffff;}
+.AJXIRJFVOKZC ul {border:0px;margin:0px;padding:0px;}
+.AJXIRJFVOKZC li {border:0px;margin:0px;padding:0px;list-style-type:none;}
+.AJXIRJFVOKZCpics {width:900px;height:300px;overflow:hidden;position:absolute;top:0px;left:0px;}
+.AJXIRJFVOKZCimg {width:900px;height:300px;border:none;position:absolute;left:0px;top:0px;}
+.AJXIRJFVOKZCul {height:300px;position:absolute;top:0px;}
+.AJXIRJFVOKZCli {width:900px;height:300px;position:relative;float:left;}
+.AJXIRJFVOKZClihide {display:none;}
+.AJXIRJFVOKZC br {clear:both;height:0;font-size:1px;line-height:0px;}
